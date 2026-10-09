@@ -1,0 +1,2521 @@
+{
+ "UA-2026-08-21-008978-a": {
+  "id": "d1ee40b6102f441cb79140b80d8d33d4",
+  "status": "active.awarded",
+  "kind": "authority",
+  "class": "not_relevant",
+  "types": [
+   "fpv_10_day"
+  ],
+  "created": "2026-08-21",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-08-24-004283-a": {
+  "id": "e6e7dd049a79488fb30490e12fda7da4",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "matrice_other",
+  "types": [],
+  "created": "2026-08-24",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-08-25-011231-a": {
+  "id": "b3d198e43ed44ce68965e8f1793c74fb",
+  "status": "active.awarded",
+  "kind": "authority",
+  "class": "quadcopter_other",
+  "types": [],
+  "created": "2026-08-25",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-08-26-002353-a": {
+  "id": "8a83f387bfc64453b93ba8328e9bb3df",
+  "status": "active",
+  "kind": "defense",
+  "class": "matrice_other",
+  "types": [],
+  "created": "2026-08-26",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-08-26-002357-a": {
+  "id": "a3d45799033d44028feb87657b3d4e71",
+  "status": "active.awarded",
+  "kind": "general",
+  "class": "fixed_wing_uav",
+  "types": [],
+  "created": "2026-08-26",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-08-26-002746-a": {
+  "id": "3607becbae024746b2999ab7a7ddfb2a",
+  "status": "active",
+  "kind": "defense",
+  "class": "matrice_other",
+  "types": [],
+  "created": "2026-08-26",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-08-26-004440-a": {
+  "id": "513d2bfa89684204bcdcdaec15e9f868",
+  "status": "active.qualification",
+  "kind": "special",
+  "class": "thermal_imager",
+  "types": [],
+  "created": "2026-08-26",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-08-26-012995-a": {
+  "id": "4471b950c77148a0be2514893e7d98c8",
+  "status": "active.awarded",
+  "kind": "general",
+  "class": "thermal_imager",
+  "types": [],
+  "created": "2026-08-26",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-08-27-005287-a": {
+  "id": "4d94058c14c14a4bba4409f255a5682a",
+  "status": "active.awarded",
+  "kind": "general",
+  "class": "ew_detector",
+  "types": [],
+  "created": "2026-08-27",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-08-27-010302-a": {
+  "id": "5182d67d772d44ec95599ffca92211c4",
+  "status": "active.tendering",
+  "kind": "general",
+  "class": "matrice_other",
+  "types": [],
+  "created": "2026-08-27",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-08-28-004715-a": {
+  "id": "e61e818edb334317abe68887533d71db",
+  "status": "active.awarded",
+  "kind": "general",
+  "class": "ew_jammer",
+  "types": [],
+  "created": "2026-08-28",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-08-28-004725-a": {
+  "id": "2f0dae23ac52460393a2cd669a6f4137",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "autel",
+  "types": [],
+  "created": "2026-08-28",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-08-28-004908-a": {
+  "id": "7fb2075e1d884059aac2e3fce6b95b23",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-08-28",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-08-28-005074-a": {
+  "id": "e64006017454424e8b6f761700829886",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-08-28",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-08-28-010573-a": {
+  "id": "ea0d9199dbe64a29949432215f5bce6d",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "ew_detector",
+  "types": [],
+  "created": "2026-08-28",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-08-28-010933-a": {
+  "id": "6ae6d92874df42d49602e59774bdf0ef",
+  "status": "active.awarded",
+  "kind": "authority",
+  "class": "quadcopter_other",
+  "types": [],
+  "created": "2026-08-28",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-08-28-010935-a": {
+  "id": "22b822885e8b4aa0bc7e07fdea8e5994",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "quadcopter_other",
+  "types": [],
+  "created": "2026-08-28",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-08-29-000186-a": {
+  "id": "38af176d5439477b8f2b0164d1c55962",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "thermal_imager",
+  "types": [],
+  "created": "2026-08-29",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-08-30-000459-a": {
+  "id": "f5113923eb48496f9647aeb1d7c8e2d7",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-08-30",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-08-31-003552-a": {
+  "id": "3c40f7aa8fe84172bedd75e1c7daea20",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-08-31",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-08-31-004976-a": {
+  "id": "cfaae8e14f724d7091ac37841a449de8",
+  "status": "active.awarded",
+  "kind": "general",
+  "class": "ew_jammer",
+  "types": [],
+  "created": "2026-08-31",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-08-31-010300-a": {
+  "id": "39e69f42612c44df8b5b536c66d0554d",
+  "status": "active.qualification",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-08-31",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-08-31-010748-a": {
+  "id": "26e0640701084c26a364d5e91d7f22b3",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "ew_jammer",
+  "types": [],
+  "created": "2026-08-31",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-08-31-013398-a": {
+  "id": "3113b2dad97a4748b9c7840fab46b6cc",
+  "status": "active.awarded",
+  "kind": "general",
+  "class": "matrice_other",
+  "types": [],
+  "created": "2026-08-31",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-08-31-013678-a": {
+  "id": "271426e3c4f64cc3bc347b99b6472e7d",
+  "status": "active.qualification",
+  "kind": "general",
+  "class": "quadcopter_other",
+  "types": [],
+  "created": "2026-08-31",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-01-002788-a": {
+  "id": "c6ea91133b5b4f75ae22d3f8873c0b99",
+  "status": "active.tendering",
+  "kind": "general",
+  "class": "ew_detector",
+  "types": [],
+  "created": "2026-09-01",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-01-009685-a": {
+  "id": "8bbe7f72d5e241e2b1d0a23b0e198c4c",
+  "status": "active.qualification",
+  "kind": "authority",
+  "class": "ew_detector",
+  "types": [
+   "esm_chuika_3"
+  ],
+  "created": "2026-09-01",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-02-004084-a": {
+  "id": "360981e53b834f59be2efcd8aabb8222",
+  "status": "active.qualification",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [],
+  "created": "2026-09-02",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-02-010183-a": {
+  "id": "dc16bf6ed6c44fb6a8ac38aa10d8d4fb",
+  "status": "active.qualification",
+  "kind": "defense",
+  "class": "fixed_wing_uav",
+  "types": [],
+  "created": "2026-09-02",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-02-011419-a": {
+  "id": "34fd53f5d8f24ef9be23be6f0ea139cb",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "thermal_imager",
+  "types": [],
+  "created": "2026-09-02",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-02-013339-a": {
+  "id": "2d1c1d707c654d3898364b44234b7463",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-02",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-02-013477-a": {
+  "id": "5bf676f4422a46789ca84f910454c51f",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "quadcopter",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-02",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-02-013546-a": {
+  "id": "94344a1613a941768f9d37ce682d93c1",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "quadcopter",
+  "types": [],
+  "created": "2026-09-02",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-03-003112-a": {
+  "id": "f862f078a9204bde8fc8ab0aca8e38ef",
+  "status": "active.qualification",
+  "kind": "general",
+  "class": "ew_jammer",
+  "types": [],
+  "created": "2026-09-03",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-03-006225-a": {
+  "id": "bcb62a75686347d8a5e5e474a1b3a9f5",
+  "status": "active.auction",
+  "kind": "general",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-03",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-03-007827-a": {
+  "id": "cd3b16804b924ff8aede498cce820e2b",
+  "status": "active.auction",
+  "kind": "authority",
+  "class": "ew_detector",
+  "types": [],
+  "created": "2026-09-03",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-03-010955-a": {
+  "id": "bf576f17c1be4d7c9a72bd5663753eca",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "quadcopter",
+  "types": [],
+  "created": "2026-09-03",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-03-012174-a": {
+  "id": "75a2128c927241348a255713e925f93b",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "quadcopter_other",
+  "types": [],
+  "created": "2026-09-03",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-03-013462-a": {
+  "id": "7cb198c2effe4e008b79f3470b1b8184",
+  "status": "active.tendering",
+  "kind": "general",
+  "class": "ew_detector",
+  "types": [
+   "esm_chuika_3"
+  ],
+  "created": "2026-09-03",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-03-013860-a": {
+  "id": "7478a3a1a2064293b749e331a33969eb",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "quadcopter",
+  "types": [],
+  "created": "2026-09-03",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-03-013924-a": {
+  "id": "4a96f1c04346480bbabfc44302daebb9",
+  "status": "active.qualification",
+  "kind": "general",
+  "class": "ew_detector",
+  "types": [],
+  "created": "2026-09-03",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-03-014195-a": {
+  "id": "a708afaf5b93468db4b9773159dfbc19",
+  "status": "active.qualification",
+  "kind": "authority",
+  "class": "ew_jammer",
+  "types": [],
+  "created": "2026-09-03",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-03-014431-a": {
+  "id": "2506f9cc748e42408da569a8e5de6009",
+  "status": "active.qualification",
+  "kind": "general",
+  "class": "ew_jammer",
+  "types": [],
+  "created": "2026-09-03",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-04-003680-a": {
+  "id": "ac22b42a07614b699f40c67db1371753",
+  "status": "active.auction",
+  "kind": "authority",
+  "class": "ew_jammer",
+  "types": [],
+  "created": "2026-09-04",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-04-003891-a": {
+  "id": "25135fa9dbec494e883c44611a3c8642",
+  "status": "active.tendering",
+  "kind": "general",
+  "class": "ew_detector",
+  "types": [
+   "esm_chuika_4"
+  ],
+  "created": "2026-09-04",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-04-008390-a": {
+  "id": "88193aaafcfe41eb9d7a6855215b5bb2",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "quadcopter_other",
+  "types": [],
+  "created": "2026-09-04",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-04-012514-a": {
+  "id": "c9bfbacb9fb34184859be40251fca7ce",
+  "status": "active.tendering",
+  "kind": "general",
+  "class": "quadcopter_other",
+  "types": [],
+  "created": "2026-09-04",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-05-000150-a": {
+  "id": "be8ee5476e8547af8773d5d244830d2c",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-05",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-05-000379-a": {
+  "id": "278396100d9740d0aea6251d18e65773",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-05",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-05-000392-a": {
+  "id": "bf9d196888fe4059b2028fe7134fb6fb",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "matrice_other",
+  "types": [],
+  "created": "2026-09-05",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-06-000149-a": {
+  "id": "019c8dd3bb134daa81744ef0683418e5",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "fixed_wing_uav",
+  "types": [],
+  "created": "2026-09-06",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-06-000176-a": {
+  "id": "8084e330cfd94f50b265cb7612866928",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "matrice_other",
+  "types": [],
+  "created": "2026-09-06",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-07-002637-a": {
+  "id": "c5eff1c2f1e74a18b1bff35735de3174",
+  "status": "active.tendering",
+  "kind": "general",
+  "class": "thermal_imager",
+  "types": [],
+  "created": "2026-09-07",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-07-003368-a": {
+  "id": "cc839da1b40044fe92ad264584522bca",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "autel",
+  "types": [],
+  "created": "2026-09-07",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-07-005848-a": {
+  "id": "4c18140b54e14c3ba39212ce9b15c999",
+  "status": "active.tendering",
+  "kind": "authority",
+  "class": "fixed_wing_uav",
+  "types": [],
+  "created": "2026-09-07",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-07-012361-a": {
+  "id": "59017931ad8843d1a1ab79e594c36533",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "autel",
+  "types": [],
+  "created": "2026-09-07",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-07-013212-a": {
+  "id": "9f0ad7027a9547f2bebbffd6d7893c32",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-07",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-07-013260-a": {
+  "id": "6e9409ed8ef64466a015079bc6f3e0e8",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-07",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-07-013992-a": {
+  "id": "03623c963f434da09996d4d1c07820e0",
+  "status": "active.tendering",
+  "kind": "general",
+  "class": "ew_detector",
+  "types": [],
+  "created": "2026-09-07",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-07-013994-a": {
+  "id": "638dc2c8d90b4d529eabeff6f819de2d",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-07",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-07-014360-a": {
+  "id": "0064ac91cce44ceca7cae8b429f7a051",
+  "status": "active.tendering",
+  "kind": "general",
+  "class": "quadcopter_other",
+  "types": [],
+  "created": "2026-09-07",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-08-002592-a": {
+  "id": "ae7fc342296e4c49bd4414f6fc459454",
+  "status": "active.tendering",
+  "kind": "general",
+  "class": "ew_jammer",
+  "types": [],
+  "created": "2026-09-08",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-08-005112-a": {
+  "id": "b22aab92d9544ce8b7b6fa62454eceb0",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-08",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-08-005553-a": {
+  "id": "ec6cbea65f4c48e0bc216cb485b7f73f",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-08",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-08-005882-a": {
+  "id": "3be9ea59e05c44f9aa570b411224da90",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-08",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-08-007112-a": {
+  "id": "69c104e3b1e542118e74a29168102654",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "autel",
+  "types": [],
+  "created": "2026-09-08",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-08-008658-a": {
+  "id": "e16850a227f948c788535b53262f8240",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "autel",
+  "types": [],
+  "created": "2026-09-08",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-08-009021-a": {
+  "id": "80336a932b1f4ec7994d670663637ed9",
+  "status": "active.tendering",
+  "kind": "special",
+  "class": "thermal_imager",
+  "types": [],
+  "created": "2026-09-08",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-08-010677-a": {
+  "id": "aa4413a6b40349d1bd69e781104e0d9c",
+  "status": "active.qualification",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-08",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-08-013608-a": {
+  "id": "2d6999de9b084d51b3479888732fdd83",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "fpv_drone",
+  "types": [],
+  "created": "2026-09-08",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-08-014877-a": {
+  "id": "ba2c0023dbc74f8db3d2d9ebef1251e0",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "fpv_drone",
+  "types": [
+   "fpv_10_day",
+   "fpv_10_thermal"
+  ],
+  "created": "2026-09-08",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-08-015121-a": {
+  "id": "3a08bc7647aa437a9f2b09484bd57a25",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-08",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-09-002959-a": {
+  "id": "145056b762414faab287d01a1656db6d",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "matrice_other",
+  "types": [],
+  "created": "2026-09-09",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-09-004744-a": {
+  "id": "30a51a90a31448a8a39c325f06e0bd8a",
+  "status": "active.tendering",
+  "kind": "general",
+  "class": "fixed_wing_uav",
+  "types": [],
+  "created": "2026-09-09",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-09-014203-a": {
+  "id": "cdf2c8076e894515b84e494c1be2081b",
+  "status": "active.tendering",
+  "kind": "authority",
+  "class": "fixed_wing_uav",
+  "types": [],
+  "created": "2026-09-09",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-09-014605-a": {
+  "id": "4b1c812a42034f509edd19f315d0c6a6",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "thermal_imager",
+  "types": [],
+  "created": "2026-09-09",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-09-014846-a": {
+  "id": "3473289aa40646df948a292af82722cf",
+  "status": "active",
+  "kind": "authority",
+  "class": "ew_jammer",
+  "types": [],
+  "created": "2026-09-09",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-09-015014-a": {
+  "id": "d534119c1226407695d090b7cfb97ee4",
+  "status": "active",
+  "kind": "authority",
+  "class": "quadcopter_other",
+  "types": [],
+  "created": "2026-09-09",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-09-015431-a": {
+  "id": "97a7797292dc4ac6a96b221c575d396d",
+  "status": "active.tendering",
+  "kind": "general",
+  "class": "quadcopter_other",
+  "types": [],
+  "created": "2026-09-09",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-09-015472-a": {
+  "id": "0cea5bd8219b4180b5aeed3aebea1c17",
+  "status": "active.qualification",
+  "kind": "defense",
+  "class": "matrice_other",
+  "types": [],
+  "created": "2026-09-09",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-10-000760-a": {
+  "id": "d272e969d4d348f48863ee77cddbe405",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-10",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-10-002161-a": {
+  "id": "3abdba62bca54dd4b27907b515c40a46",
+  "status": "active.awarded",
+  "kind": "general",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-10",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-10-002211-a": {
+  "id": "be43a63904e54b409dd3b0e94903e09e",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "matrice_other",
+  "types": [],
+  "created": "2026-09-10",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-10-002378-a": {
+  "id": "f794ba5ba04b4ed1a1a19aa7d88a099f",
+  "status": "active.tendering",
+  "kind": "authority",
+  "class": "ew_detector",
+  "types": [],
+  "created": "2026-09-10",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-10-003664-a": {
+  "id": "e63d34bd531542b2bd290a2e4c652428",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-10",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-10-007153-a": {
+  "id": "9047aa53bff3457baf8341812b516854",
+  "status": "active.tendering",
+  "kind": "general",
+  "class": "fixed_wing_uav",
+  "types": [],
+  "created": "2026-09-10",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-10-008968-a": {
+  "id": "951e22a9079d42109e7afd66a7635b13",
+  "status": "active.tendering",
+  "kind": "general",
+  "class": "ew_detector",
+  "types": [],
+  "created": "2026-09-10",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-10-009033-a": {
+  "id": "db84e6c98c32426ea30446d570a6176b",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-10",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-10-009245-a": {
+  "id": "5c2516f67b1d449793f9b5a9dbb1d262",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "matrice_other",
+  "types": [],
+  "created": "2026-09-10",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-10-010511-a": {
+  "id": "d9a880ca93bd4311b5276cd5ee67de8c",
+  "status": "active.tendering",
+  "kind": "authority",
+  "class": "ew_jammer",
+  "types": [],
+  "created": "2026-09-10",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-10-014850-a": {
+  "id": "f0ed0ea2aac3460b986d91aa86a03560",
+  "status": "active.qualification",
+  "kind": "defense",
+  "class": "ew_detector",
+  "types": [],
+  "created": "2026-09-10",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-10-015135-a": {
+  "id": "6e7cb51cbc934cdfb5f4dac5df1dace4",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "matrice_other",
+  "types": [],
+  "created": "2026-09-10",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-10-015152-a": {
+  "id": "015e67bb318341439f1c9a265b05660a",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "matrice_other",
+  "types": [],
+  "created": "2026-09-10",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-10-015172-a": {
+  "id": "066f50a8bfd24a7dbf7b1310e9f1765a",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-10",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-10-015393-a": {
+  "id": "5d234f18f95848b6a8e32eeff924579e",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "mavic",
+  "types": [],
+  "created": "2026-09-10",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-11-000420-a": {
+  "id": "c71aa3a486a946ff9c27c93d355237d4",
+  "status": "active.qualification",
+  "kind": "defense",
+  "class": "quadcopter",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-11",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-11-000522-a": {
+  "id": "b7f35288202e4d80879cf7872391cf10",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "matrice_other",
+  "types": [],
+  "created": "2026-09-11",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-11-002523-a": {
+  "id": "b8e86f0b98524015a938951632f66d3a",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-11",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-11-002705-a": {
+  "id": "e9c2d72b6b4543b3a7192e533bcef191",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "matrice_other",
+  "types": [],
+  "created": "2026-09-11",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-11-003948-a": {
+  "id": "bbe92cdc133d4e3e8b4b6471ab05f4c1",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "matrice_other",
+  "types": [],
+  "created": "2026-09-11",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-11-005131-a": {
+  "id": "d97f2667f4604dbcb27c310fa221c187",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "quadcopter_other",
+  "types": [],
+  "created": "2026-09-11",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-11-005401-a": {
+  "id": "301c564aa5064fc8be091992ff7c9fb8",
+  "status": "active.tendering",
+  "kind": "general",
+  "class": "ew_jammer",
+  "types": [],
+  "created": "2026-09-11",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-11-006437-a": {
+  "id": "2526d818f9d64a46b82c1ba01201b889",
+  "status": "active.qualification",
+  "kind": "defense",
+  "class": "fixed_wing_uav",
+  "types": [],
+  "created": "2026-09-11",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-11-006741-a": {
+  "id": "90ccbd32199e4d5e97c5595e21c60b5e",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "quadcopter",
+  "types": [],
+  "created": "2026-09-11",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-11-007025-a": {
+  "id": "32ecf1305f4e4792a4183ce9b26780af",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "quadcopter",
+  "types": [],
+  "created": "2026-09-11",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-11-007721-a": {
+  "id": "702dbe44f636471d8293169477364d93",
+  "status": "active.qualification",
+  "kind": "defense",
+  "class": "fixed_wing_uav",
+  "types": [],
+  "created": "2026-09-11",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-11-010021-a": {
+  "id": "2e1668fc773843c8b717deecb39b4368",
+  "status": "active.tendering",
+  "kind": "general",
+  "class": "quadcopter_other",
+  "types": [],
+  "created": "2026-09-11",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-11-012607-a": {
+  "id": "fdd89d21bc5542379dc6c44e39e4b8ce",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "thermal_imager",
+  "types": [],
+  "created": "2026-09-11",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-11-012951-a": {
+  "id": "84dd15823e544439aa2fba58ec7e7a60",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-11",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-11-013518-a": {
+  "id": "7edd5dd0b6134b158660594e74fb02bf",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-11",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-11-013557-a": {
+  "id": "07ca60f9ebd9461192e00f67faa206c0",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-11",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-11-013602-a": {
+  "id": "66e03e7d37374d10bb096e6a86d35530",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "matrice_other",
+  "types": [],
+  "created": "2026-09-11",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-11-013643-a": {
+  "id": "03d39172460c4620b6fb2191c3b4cd46",
+  "status": "active.tendering",
+  "kind": "general",
+  "class": "fpv_drone",
+  "types": [],
+  "created": "2026-09-11",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-11-014066-a": {
+  "id": "88f6728c295b4421a11fffb6459c68b7",
+  "status": "active.tendering",
+  "kind": "authority",
+  "class": "ew_jammer",
+  "types": [],
+  "created": "2026-09-11",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-11-014148-a": {
+  "id": "8f77c14ace34487983f9fc93b89cbb74",
+  "status": "active.tendering",
+  "kind": "general",
+  "class": "quadcopter_other",
+  "types": [],
+  "created": "2026-09-11",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-12-000214-a": {
+  "id": "e89deb3c1a43427a9948e35179193dcb",
+  "status": "active.qualification",
+  "kind": "defense",
+  "class": "matrice_other",
+  "types": [],
+  "created": "2026-09-12",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-12-000222-a": {
+  "id": "db5246bb83e44ae9b2e21cb0c42a670e",
+  "status": "active.qualification",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-12",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-12-000239-a": {
+  "id": "3c2dc880ca474b49921cbb197dbd68bb",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-12",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-12-000472-a": {
+  "id": "e92d834955e34ef5b36fea2525c891e1",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "quadcopter",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-12",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-12-000482-a": {
+  "id": "7018268fa83c4870a2bd6cd0a6fee8eb",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "quadcopter",
+  "types": [],
+  "created": "2026-09-12",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-12-000490-a": {
+  "id": "000b7340a34940008a083618eaf5678c",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "quadcopter",
+  "types": [],
+  "created": "2026-09-12",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-12-000630-a": {
+  "id": "6f03fd520f74449890ca368616ac8561",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "quadcopter",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-12",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-12-000669-a": {
+  "id": "ac385b6610c442bf9437ba83fc8eb62c",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "fpv_drone",
+  "types": [],
+  "created": "2026-09-12",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-12-000902-a": {
+  "id": "ae9c4587709649aa9f9c4cde05396117",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "thermal_imager",
+  "types": [],
+  "created": "2026-09-12",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-13-000084-a": {
+  "id": "d74ad2092b4d458a94149985c4f90804",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "quadcopter",
+  "types": [],
+  "created": "2026-09-13",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-13-000591-a": {
+  "id": "f5de7b65776c4a109849887007e4b101",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-13",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-14-001096-a": {
+  "id": "dc08b53cf0d24a4d92a74a1492d0d0c0",
+  "status": "active.tendering",
+  "kind": "special",
+  "class": "thermal_imager",
+  "types": [],
+  "created": "2026-09-14",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-14-002533-a": {
+  "id": "112cec8edebe4cac96a8abf61e48db6f",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "matrice_other",
+  "types": [],
+  "created": "2026-09-14",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-14-002652-a": {
+  "id": "7e99ad2445ff491f8a990b9af8099f38",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "matrice_other",
+  "types": [],
+  "created": "2026-09-14",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-14-004954-a": {
+  "id": "90949adb8c504369808896231c8aaaef",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "quadcopter",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-14",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-14-005368-a": {
+  "id": "3588c93e58e4435ea88cb544bac7d95c",
+  "status": "active.tendering",
+  "kind": "special",
+  "class": "ew_detector",
+  "types": [],
+  "created": "2026-09-14",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-14-008560-a": {
+  "id": "4b5820555bb6487e9714cb97cd9f2b87",
+  "status": "active.tendering",
+  "kind": "general",
+  "class": "ground_robot",
+  "types": [],
+  "created": "2026-09-14",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-14-008634-a": {
+  "id": "8de13f5fc98449e1a836f4576b60d837",
+  "status": "active.tendering",
+  "kind": "authority",
+  "class": "fpv_drone",
+  "types": [
+   "fpv_10_fiber"
+  ],
+  "created": "2026-09-14",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-14-010386-a": {
+  "id": "8d0266a31da0473b91f044cac5c6204a",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-14",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-14-010546-a": {
+  "id": "1dee6804a55b459684ae7d88a3aac038",
+  "status": "active.tendering",
+  "kind": "general",
+  "class": "quadcopter_other",
+  "types": [],
+  "created": "2026-09-14",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-14-012072-a": {
+  "id": "0f1f6cfdac33460ab23b3a224319f09b",
+  "status": "active.tendering",
+  "kind": "authority",
+  "class": "ew_jammer",
+  "types": [],
+  "created": "2026-09-14",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-14-012271-a": {
+  "id": "54bdd7fb45ce4b2c8135ecb46f0cc1aa",
+  "status": "active",
+  "kind": "defense",
+  "class": "quadcopter_other",
+  "types": [],
+  "created": "2026-09-14",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-14-012763-a": {
+  "id": "c9b2ee7dc0bc4a73b4413bbc28a740d3",
+  "status": "active",
+  "kind": "general",
+  "class": "matrice_other",
+  "types": [],
+  "created": "2026-09-14",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-14-013001-a": {
+  "id": "e32830ecb01f4f83aa4026b3edf04a6d",
+  "status": "active.awarded",
+  "kind": "general",
+  "class": "matrice_other",
+  "types": [],
+  "created": "2026-09-14",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-14-013126-a": {
+  "id": "10bec5ea1d85476e85bb3766bebb4fae",
+  "status": "active.qualification",
+  "kind": "defense",
+  "class": "quadcopter",
+  "types": [],
+  "created": "2026-09-14",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-14-013964-a": {
+  "id": "35e47e8329f14bbd873516486ba076d6",
+  "status": "active.awarded",
+  "kind": "authority",
+  "class": "mavic",
+  "types": [],
+  "created": "2026-09-14",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-14-014340-a": {
+  "id": "38729ed25e6a4a1cac5b6e55bcf7e380",
+  "status": "active.tendering",
+  "kind": "general",
+  "class": "quadcopter_other",
+  "types": [],
+  "created": "2026-09-14",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-15-000668-a": {
+  "id": "3a2501dc1b7145a4b197b0c58a8ad31e",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-15",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-15-000769-a": {
+  "id": "45daf547eb3c4644ab9c8fb9b44e3241",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-15",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-15-002526-a": {
+  "id": "21c0bef9dd46446d8ee79aeb444c971f",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-15",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-15-002903-a": {
+  "id": "9a5797929b8f41f1827071609da67c93",
+  "status": "active.qualification",
+  "kind": "defense",
+  "class": "quadcopter",
+  "types": [],
+  "created": "2026-09-15",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-15-004326-a": {
+  "id": "adc8a445398c4aed817f623d831bc76d",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "quadcopter_other",
+  "types": [],
+  "created": "2026-09-15",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-15-004380-a": {
+  "id": "1aabf390fffe48bf802681712958c766",
+  "status": "active.tendering",
+  "kind": "authority",
+  "class": "quadcopter_other",
+  "types": [],
+  "created": "2026-09-15",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-15-004784-a": {
+  "id": "ddc62ebada6b43d0a60ca0a0b2e0d7af",
+  "status": "active.tendering",
+  "kind": "general",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-15",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-15-008392-a": {
+  "id": "5257a4a131fd47b181857a0ea1a8d5d6",
+  "status": "active.tendering",
+  "kind": "authority",
+  "class": "fixed_wing_uav",
+  "types": [],
+  "created": "2026-09-15",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-15-009746-a": {
+  "id": "216de0b85c4340699186c5e37f5ac227",
+  "status": "active.qualification",
+  "kind": "defense",
+  "class": "quadcopter",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-15",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-15-013186-a": {
+  "id": "f87286d0463e40c992cc40ff49404792",
+  "status": "active.tendering",
+  "kind": "authority",
+  "class": "ew_detector",
+  "types": [],
+  "created": "2026-09-15",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-15-013241-a": {
+  "id": "7d19834871fd466ab3b7ba9a8d128c11",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "quadcopter_other",
+  "types": [],
+  "created": "2026-09-15",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-15-013870-a": {
+  "id": "4b554541d06e496595260991422d7eb3",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-15",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-15-015028-a": {
+  "id": "da6f1db1c8424ca9bf70101b018c5bba",
+  "status": "active.enquiries",
+  "kind": "defense",
+  "class": "drone_battery",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-15",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-15-015142-a": {
+  "id": "cf18c42f3b0a48f7bbc38f99c4955e96",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-15",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-15-015298-a": {
+  "id": "c4e100978ec24853b6d1c1866f05c8b5",
+  "status": "active.enquiries",
+  "kind": "defense",
+  "class": "drone_battery",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-15",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-15-015361-a": {
+  "id": "3acd72473dc34728a782e0f4430147b0",
+  "status": "active.qualification",
+  "kind": "defense",
+  "class": "matrice_other",
+  "types": [],
+  "created": "2026-09-15",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-15-015572-a": {
+  "id": "7057063acf404b8fa584a96e0f1e6f74",
+  "status": "active.qualification",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-15",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-15-015632-a": {
+  "id": "67f0cea987234e74b5a9aef6575616ce",
+  "status": "active.qualification",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-15",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-15-016158-a": {
+  "id": "33feadcefbd0463792813e48eedf1db8",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "mavic",
+  "types": [],
+  "created": "2026-09-15",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-15-016162-a": {
+  "id": "102d4782695940199fc8989c0d5bc226",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "mavic",
+  "types": [],
+  "created": "2026-09-15",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-16-000022-a": {
+  "id": "02c51ebac24e4dd3b448b549a94a0df2",
+  "status": "active.enquiries",
+  "kind": "defense",
+  "class": "quadcopter_other",
+  "types": [],
+  "created": "2026-09-16",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-16-000874-a": {
+  "id": "bd0fc75214344409b69b177e6133c39c",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [],
+  "created": "2026-09-16",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-16-001101-a": {
+  "id": "0d72e2ce43d049b2a9d4cefa29254ed2",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "matrice_other",
+  "types": [],
+  "created": "2026-09-16",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-16-003961-a": {
+  "id": "9843bbf6805c44e3bc76c6143354f4fd",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [],
+  "created": "2026-09-16",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-16-004050-a": {
+  "id": "bd3c28fd33ed4997a8f981f5fbb80baf",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "matrice_other",
+  "types": [],
+  "created": "2026-09-16",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-16-005745-a": {
+  "id": "1b17356a6f5c4593938a8baefdcd7c7a",
+  "status": "active.tendering",
+  "kind": "general",
+  "class": "ew_jammer",
+  "types": [],
+  "created": "2026-09-16",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-16-006170-a": {
+  "id": "f520c7d5f8b149cc843a8e273bc04993",
+  "status": "active.tendering",
+  "kind": "general",
+  "class": "ew_jammer",
+  "types": [],
+  "created": "2026-09-16",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-16-007229-a": {
+  "id": "13c5efae48e74ac3bd1fa23b0c0654f5",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "mavic",
+  "types": [],
+  "created": "2026-09-16",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-16-008625-a": {
+  "id": "4b8022519bbe4053bf3fa9a2be8b50d4",
+  "status": "active.tendering",
+  "kind": "general",
+  "class": "mavic",
+  "types": [],
+  "created": "2026-09-16",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-16-010830-a": {
+  "id": "8add63718a484f5c979b320cecb5de56",
+  "status": "active.tendering",
+  "kind": "general",
+  "class": "quadcopter_other",
+  "types": [],
+  "created": "2026-09-16",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-16-010915-a": {
+  "id": "eec6fa808cd246f5bcca9b4222d7cf63",
+  "status": "active.tendering",
+  "kind": "general",
+  "class": "ew_jammer",
+  "types": [],
+  "created": "2026-09-16",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-16-010960-a": {
+  "id": "88b9f779d62a40ffa92694bb940591b6",
+  "status": "active.tendering",
+  "kind": "general",
+  "class": "ew_jammer",
+  "types": [],
+  "created": "2026-09-16",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-16-011265-a": {
+  "id": "74d3b14eaf9846998a2203e745feb8e4",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-16",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-16-011789-a": {
+  "id": "268303ca22e04085b7eee285b68801c7",
+  "status": "active.enquiries",
+  "kind": "defense",
+  "class": "fixed_wing_uav",
+  "types": [],
+  "created": "2026-09-16",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-16-012577-a": {
+  "id": "e8841264b60743c59a9fc755238436cd",
+  "status": "active.tendering",
+  "kind": "authority",
+  "class": "ew_jammer",
+  "types": [],
+  "created": "2026-09-16",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-16-012606-a": {
+  "id": "03a1f8cdbc164fd3b54bd49d139fe2e8",
+  "status": "active.qualification",
+  "kind": "defense",
+  "class": "quadcopter",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-16",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-16-013097-a": {
+  "id": "a04772bf81d745cf82905d6bafc44755",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "matrice_other",
+  "types": [],
+  "created": "2026-09-16",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-16-013285-a": {
+  "id": "ff18abef991a40b7bb37b03859ff5a97",
+  "status": "active.tendering",
+  "kind": "general",
+  "class": "ew_detector",
+  "types": [
+   "esm_chuika_3"
+  ],
+  "created": "2026-09-16",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-16-013613-a": {
+  "id": "0ec0c37f762b49c29b0cfa1c5165efae",
+  "status": "active.tendering",
+  "kind": "authority",
+  "class": "mavic",
+  "types": [],
+  "created": "2026-09-16",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-16-014078-a": {
+  "id": "392264afed6b4a95a7c7774055229d0b",
+  "status": "active.enquiries",
+  "kind": "defense",
+  "class": "quadcopter_other",
+  "types": [],
+  "created": "2026-09-16",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-16-014213-a": {
+  "id": "3d0f28ec31934996a8ed8fa4317b8a38",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "thermal_imager",
+  "types": [],
+  "created": "2026-09-16",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-16-014654-a": {
+  "id": "d7efc771a7354fc1818d12b9f82861e9",
+  "status": "active.tendering",
+  "kind": "general",
+  "class": "ew_jammer",
+  "types": [],
+  "created": "2026-09-16",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-16-015305-a": {
+  "id": "b462f8cc9d7d46ff8573e827291d3af5",
+  "status": "active.tendering",
+  "kind": "general",
+  "class": "quadcopter_other",
+  "types": [],
+  "created": "2026-09-16",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-16-015983-a": {
+  "id": "d7f7079478cf424082be7136c68431f3",
+  "status": "active.qualification",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-16",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-16-016110-a": {
+  "id": "df79a1dcebaf48dbb36035ff4f8e6472",
+  "status": "active.qualification",
+  "kind": "defense",
+  "class": "autel",
+  "types": [],
+  "created": "2026-09-16",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-16-016235-a": {
+  "id": "fd1db5b2647540a59fcdc5bd40437de0",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-16",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-16-016247-a": {
+  "id": "973c8211a69244669cbbb4a42028040d",
+  "status": "active.awarded",
+  "kind": "defense",
+  "class": "matrice_other",
+  "types": [],
+  "created": "2026-09-16",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-17-001011-a": {
+  "id": "7849f9ffc5ce4dc78b871bb5649aa923",
+  "status": "active.tendering",
+  "kind": "general",
+  "class": "quadcopter",
+  "types": [],
+  "created": "2026-09-17",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-17-001703-a": {
+  "id": "8ab3d027ed77465da647b6b1197e9134",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "quadcopter",
+  "types": [],
+  "created": "2026-09-17",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-17-003418-a": {
+  "id": "cc7150cf17084a5ba8ebcd5a2ad471a9",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "quadcopter",
+  "types": [],
+  "created": "2026-09-17",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-17-006699-a": {
+  "id": "e8e5ae28cd6441f382cef071ac77e7bb",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "quadcopter",
+  "types": [],
+  "created": "2026-09-17",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-17-007293-a": {
+  "id": "238b088b22cb45d3915f2be3861cdbf8",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [],
+  "created": "2026-09-17",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-17-010904-a": {
+  "id": "71a9d35697974b9e8e97beb92b276d4e",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-17",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-17-011062-a": {
+  "id": "2f277b22077f40da82fb24d6ed2dbcb4",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-17",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-17-011149-a": {
+  "id": "9da92762a47d4a98b8b71f48df7a1495",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-17",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-17-011769-a": {
+  "id": "dca2ab1c14024d13a9c68b232bcccea0",
+  "status": "active.tendering",
+  "kind": "general",
+  "class": "quadcopter_other",
+  "types": [],
+  "created": "2026-09-17",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-17-011778-a": {
+  "id": "683894f6755f47d8a95d677a21ea7013",
+  "status": "active.enquiries",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-17",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-17-012695-a": {
+  "id": "73ad247d3cef4271ac8fca36266cec79",
+  "status": "active",
+  "kind": "general",
+  "class": "ew_detector",
+  "types": [],
+  "created": "2026-09-17",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-17-012702-a": {
+  "id": "c6b29a14e21a417f9e6a8cca947cbb35",
+  "status": "active.tendering",
+  "kind": "general",
+  "class": "ew_detector",
+  "types": [
+   "esm_chuika_kit"
+  ],
+  "created": "2026-09-17",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-17-012860-a": {
+  "id": "3d1d50cc3e6947e590a305b945b1ef49",
+  "status": "active.tendering",
+  "kind": "general",
+  "class": "matrice_other",
+  "types": [],
+  "created": "2026-09-17",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-17-014818-a": {
+  "id": "4f0c3816f45d44f1a945e4337b947b55",
+  "status": "active",
+  "kind": "authority",
+  "class": "fpv_drone",
+  "types": [],
+  "created": "2026-09-17",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-17-015651-a": {
+  "id": "02152d5d67d34a638d20fce414c733be",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-17",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-17-016079-a": {
+  "id": "8d9907bedb7649b7a4cc2a4dd968795a",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "matrice_other",
+  "types": [],
+  "created": "2026-09-17",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-17-016080-a": {
+  "id": "60cde50201374f589f528844b0f17ee5",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [],
+  "created": "2026-09-17",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-18-000328-a": {
+  "id": "988c2c872c4b4226b4a922e81be0623e",
+  "status": "active.tendering",
+  "kind": "authority",
+  "class": "matrice_4t",
+  "types": [],
+  "created": "2026-09-18",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-18-001219-a": {
+  "id": "0b75e92cfcbc43e89e60ed1a53fdabc0",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "matrice_other",
+  "types": [],
+  "created": "2026-09-18",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-18-002964-a": {
+  "id": "bb3669951d4b4e0b99efafb787438c66",
+  "status": "active",
+  "kind": "authority",
+  "class": "quadcopter_other",
+  "types": [],
+  "created": "2026-09-18",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-18-003581-a": {
+  "id": "4449a56a46bb4ee598642aba9116e97c",
+  "status": "active.tendering",
+  "kind": "authority",
+  "class": "quadcopter",
+  "types": [],
+  "created": "2026-09-18",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-18-004510-a": {
+  "id": "beac4ecc30794b588ac04d18e2ecaa3e",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "matrice_other",
+  "types": [],
+  "created": "2026-09-18",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-18-004962-a": {
+  "id": "6b78fbf411ec4c90b98939a2ccd969f8",
+  "status": "active",
+  "kind": "general",
+  "class": "quadcopter_other",
+  "types": [],
+  "created": "2026-09-18",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-18-005217-a": {
+  "id": "8e6751874db443a2a4fafbcc5685e087",
+  "status": "active.enquiries",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-18",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-18-006305-a": {
+  "id": "b292aee1a85349d795a6470ea4dd6142",
+  "status": "active.enquiries",
+  "kind": "defense",
+  "class": "thermal_imager",
+  "types": [],
+  "created": "2026-09-18",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-18-006760-a": {
+  "id": "5dbfd286eee646abb9ce22fb6d6f8c6c",
+  "status": "active",
+  "kind": "general",
+  "class": "matrice_other",
+  "types": [],
+  "created": "2026-09-18",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-18-008484-a": {
+  "id": "00361c9652864a4d909c07813dfb9ffb",
+  "status": "active.tendering",
+  "kind": "general",
+  "class": "ew_detector",
+  "types": [
+   "esm_chuika_kit"
+  ],
+  "created": "2026-09-18",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-18-008905-a": {
+  "id": "900063d039d14e9e8274742fc7219111",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "quadcopter",
+  "types": [],
+  "created": "2026-09-18",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-18-009466-a": {
+  "id": "ea84039b565544ab86b19841ef8daa8a",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "quadcopter",
+  "types": [],
+  "created": "2026-09-18",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-18-010594-a": {
+  "id": "ceca7094433844ecb005885fa5270f31",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "matrice_other",
+  "types": [],
+  "created": "2026-09-18",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-18-010806-a": {
+  "id": "0847ed1efa1c4bfab44a6ee3ab080a54",
+  "status": "active.tendering",
+  "kind": "general",
+  "class": "ew_detector",
+  "types": [
+   "esm_chuika_3"
+  ],
+  "created": "2026-09-18",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-18-011509-a": {
+  "id": "34313799e9724848b7e8842585e93eb6",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-18",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-18-011662-a": {
+  "id": "dd5a974401244034afa1f413728a060f",
+  "status": "active.tendering",
+  "kind": "authority",
+  "class": "quadcopter_other",
+  "types": [],
+  "created": "2026-09-18",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-18-011684-a": {
+  "id": "3890c6850e784120b4a1275bd9974574",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "mavic",
+  "types": [],
+  "created": "2026-09-18",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-18-011921-a": {
+  "id": "b0e2e35e7b644714aed2c7d308657eb5",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [],
+  "created": "2026-09-18",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-18-012008-a": {
+  "id": "ccf08d505e4e4eefba029cf61b55ae83",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-18",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-18-012132-a": {
+  "id": "564271284d6046b1be5098c7856647c7",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "mavic",
+  "types": [],
+  "created": "2026-09-18",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-18-012285-a": {
+  "id": "6d0e3d684b0c4fc8acb87c2dc19c9df4",
+  "status": "active.tendering",
+  "kind": "general",
+  "class": "quadcopter_other",
+  "types": [],
+  "created": "2026-09-18",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-18-012307-a": {
+  "id": "d73fdbb7fb714c7e9b54e3dd7b110b53",
+  "status": "active.tendering",
+  "kind": "authority",
+  "class": "ew_detector",
+  "types": [
+   "esm_chuika_4"
+  ],
+  "created": "2026-09-18",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-18-013937-a": {
+  "id": "b5eae383fdd949c7919991e63f93420e",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-18",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-19-000127-a": {
+  "id": "2cf581a255984f7c8e091778f39f9a70",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "matrice_other",
+  "types": [],
+  "created": "2026-09-19",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-19-000128-a": {
+  "id": "3c7c7658ffe04abcbf6d4811fe95809b",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "quadcopter",
+  "types": [],
+  "created": "2026-09-19",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-19-000151-a": {
+  "id": "6668ecc99300453ca5977c5e985db780",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-19",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-19-000241-a": {
+  "id": "7435885cf0214c7dae92dcbbcb5fe532",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [],
+  "created": "2026-09-19",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-19-000259-a": {
+  "id": "5b09fc53c37943c59bd62d06ff7a5c71",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "matrice_other",
+  "types": [],
+  "created": "2026-09-19",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-19-000315-a": {
+  "id": "bf4a76f390c44bdcbd782352c88a4ddc",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-19",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-19-000386-a": {
+  "id": "ee0375e0fe29450faff3e1b49f20118b",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-19",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ },
+ "UA-2026-09-19-000492-a": {
+  "id": "ec4ebf845df34eabb9a2f77dd6a330d7",
+  "status": "active.tendering",
+  "kind": "defense",
+  "class": "matrice_4t",
+  "types": [
+   "matrice_4t"
+  ],
+  "created": "2026-09-19",
+  "last_checked": "2026-09-20",
+  "first_seen": "2026-09-20"
+ }
+}

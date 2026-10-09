@@ -1,0 +1,8 @@
+2026-09-19T23:31:24
+  refresh: 573 non-terminal tenders re-fetched, 0 changed, 0 errors, 113s
+  discover(site) since 2026-09-18: 102 candidates, 17 not cached, 8s
+  fetched 17/17 new tenders, 18s
+2026-09-20T07:23:46
+  refresh: 582 non-terminal tenders re-fetched, 5 changed, 0 errors, 131s
+  discover(site) since 2026-09-19: 19 candidates, 0 not cached, 7s
+  fetched 0/0 new tenders, 7s

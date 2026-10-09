@@ -1,0 +1,56 @@
+{
+ "esm_chuika_3": {
+  "basis": "signed unit price, net of VAT, split purchases collapsed, 30-day window from 2026-08-21",
+  "n": 14,
+  "median": 25700.0,
+  "q1": 25700.0,
+  "q3": 25700.0,
+  "min": 21416.67,
+  "max": 38420.0
+ },
+ "esm_chuika_4": {
+  "basis": "signed unit price, net of VAT, split purchases collapsed, 30-day window from 2026-08-21",
+  "n": 6,
+  "median": 50400.0,
+  "q1": 50400.0,
+  "q3": 50400.0,
+  "min": 50400.0,
+  "max": 50400.0
+ },
+ "esm_chuika_kit": {
+  "basis": "signed unit price, net of VAT, split purchases collapsed, 30-day window from 2026-08-21",
+  "n": 3,
+  "median": 37700.0,
+  "q1": 37700.0,
+  "q3": 37700.0,
+  "min": 37700.0,
+  "max": 37700.0
+ },
+ "fpv_10_day": {
+  "basis": "signed unit price, net of VAT, split purchases collapsed, 30-day window from 2026-08-21",
+  "n": 5,
+  "median": 19960.0,
+  "q1": 12261.0,
+  "q3": 24300.0,
+  "min": 12000.0,
+  "max": 25000.0
+ },
+ "fpv_10_thermal": {
+  "basis": "signed unit price, net of VAT, split purchases collapsed, 30-day window from 2026-08-21",
+  "n": 1,
+  "median": 50700.0,
+  "q1": 50700.0,
+  "q3": 50700.0,
+  "min": 50700.0,
+  "max": 50700.0
+ },
+ "matrice_4t": {
+  "basis": "signed unit price, net of VAT, split purchases collapsed, 30-day window from 2026-08-21",
+  "n": 105,
+  "median": 172500.0,
+  "q1": 171524.5,
+  "q3": 174250.0,
+  "min": 162500.0,
+  "max": 239000.0
+ }
+}
