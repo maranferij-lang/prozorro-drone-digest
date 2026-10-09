@@ -155,8 +155,8 @@ def item_text(t, it):
     return norm(strip_cpv_boilerplate(f"{t.get('title','')} {it.get('description','')}", it)).lower()
 
 # ---------------------------------------------------------------- 4. classifiers
-CAT_QUAD = "34710000-259894-40996564"   # Prozorro Market: Квадрокоптери
-CAT_FPV = "34710000-331552-40996564"    # Prozorro Market: БпЛА мультироторного типу (FPV)
+CAT_QUAD = "34710000-259894-40996564"   # Prozorro Market category: Quadcopters
+CAT_FPV = "34710000-331552-40996564"    # Prozorro Market category: multirotor UAVs (FPV)
 MARKET_CAT = {CAT_QUAD: "quadcopter", CAT_FPV: "fpv_drone", "31430000-888358-40996564": "drone_battery",
               "b9d2c60fd2ec49aab4f338bb95cedb1c": "drone_parts", "34740000-241144-40996564": "drone_parts",
               "34740000-572349-40996564": "fpv_goggles", "38630000-497369-32348248": "thermal_imager",

@@ -1,5 +1,5 @@
 """Unit-price table per ITEM for the precise price types (Matrice 4T, FPV 10" day/thermal/fiber).
-Split purchases (same buyer ЄДРПОУ + same created date + same type) get one group_id; stats are computed on
+Split purchases (same buyer EDRPOU (company registry code) + same created date + same type) get one group_id; stats are computed on
 collapsed groups (one observation = median of the group) but every raw row stays in the CSV.
 python3 scripts/price_table.py [--since YYYY-MM-DD]   → data/price_table.csv, data/benchmarks.json
 """

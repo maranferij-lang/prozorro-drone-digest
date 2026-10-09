@@ -2,7 +2,7 @@
 
 Tracks how Ukrainian public buyers purchase drones, FPV kits, EW equipment and thermal imagers through Prozorro, and turns it into a weekly markdown digest with unit prices by product type. Python 3 + `requests`, no database, no framework. One JSON file per tender on disk. Benchmarks are medians of signed net-of-VAT unit prices over a rolling 30-day window. Flags mark contracts priced above benchmark, single-bidder awards, and budgets set far above the catalogue price, and pull the tender documents to say why.
 
-**Who it's for:** producers and sellers of drones / EW / optics who want to see what communities, police, ДСНС and military units are buying, at what unit price, and which open tenders are worth a bid. Also anyone auditing municipal spending on this category.
+**Who it's for:** producers and sellers of drones / EW / optics who want to see what communities, police, the State Emergency Service (ДСНС) and military units are buying, at what unit price, and which open tenders are worth a bid. Also anyone auditing municipal spending on this category.
 
 Sample output from the 2026-09-20 run is in `data/digests/digest_2026-09-20.md`, with hand-written notes in `data/notes/`. Everything in it comes from public Prozorro records. The ⚠ flags are screening heuristics that say where to read the documents, they are not findings about any buyer or supplier.
 
@@ -33,7 +33,7 @@ First run from scratch: `scripts/harvest.py` + `scripts/fetch_full.py` (≈15 mi
 - The coarse classifier (18 classes) is regex; its precision is not yet measured — that is what the 40-row labelled sample is for. Expect noise like a 4,500 UAH "drone" that is a toy or a part.
 - FPV drones are not one product: size, radio vs fiber-optic, day vs thermal camera move the price 12k → 50k. Only `priceQuotation` tenders state these in data; the rest need the documents.
 - Bids are hidden until qualification, so a tender first seen open gets its prices weeks later; `pending.json` is re-fetched every run for that reason.
-- VAT: the category is mostly exempt (п. 32 підрозділу 2 розділу XX ПКУ), but the VAT flag differs between tender, award, contract and contract item on the same purchase. Signed prices use the contract's `amountNet`. Everything is compared net.
+- VAT: the category is mostly exempt (item 32 of subsection 2 of section XX of the Tax Code of Ukraine), but the VAT flag differs between tender, award, contract and contract item on the same purchase. Signed prices use the contract's `amountNet`. Everything is compared net.
 - Document reading is heuristic: it finds the spec section and extracts bands, capacity, quantity, delivery, warranty, kit extras. It will misread, and the hand-written notes in `data/notes/` are the fallback, not the pipeline.
 - Prozorro Market category ids are used raw; no API to resolve them to names was found.
 - No Telegram, no scheduler, no tests. Run it by hand.

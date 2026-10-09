@@ -112,7 +112,7 @@ def spec_facts(t, texts=None):
     facts["qty"] = f"{t['items'][0]['quantity']:.0f} {t['items'][0]['unit']['name']}" + (f" (+{len(t['items'])-1} items)" if len(t["items"]) > 1 else "")
     full_low = text.lower()
     dl = None
-    for ti, ty, tx in readable:           # delivery date is usually in the contract proforma or the ТД, not the spec
+    for ti, ty, tx in readable:           # delivery date is usually in the contract proforma or the ТД (tender documentation), not the spec
         dl = DELIVERY.search(tx or "")
         if dl: break
     facts["delivery"] = re.sub(r"\s+", " ", dl.group(0))[:120] if dl else None
